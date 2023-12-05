@@ -35,6 +35,7 @@ public class biletFiyat {
 }
 
 class Test {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -69,4 +70,5 @@ class Test {
         BiletFiyat.hesaplama(mesafe, yas, gidisYonu);
 
     }
+
 }
